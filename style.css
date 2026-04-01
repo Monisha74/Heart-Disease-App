@@ -1,0 +1,19 @@
+.main {
+    background-color: #f5f7fa;
+}
+
+.title {
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+    color:#e63946;
+}
+
+.card {
+    padding:20px;
+    border-radius:10px;
+    background:white;
+    box-shadow:0px 4px 10px rgba(0,0,0,0.1);
+    margin:20px;
+
+}
